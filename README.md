@@ -1,3 +1,6 @@
+# IMPORTANT FOR TPASTREAM PEOPLE
+Whatever fork commit this repo is at is the currently deployed commit for whatever cloudbuild community images we are using. Specifically `helm`.
+
 # Google Cloud Build community images
 
 This repository contains source code for community-contributed Docker images. You can use these images as build steps for
